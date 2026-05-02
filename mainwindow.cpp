@@ -504,7 +504,7 @@ void MainWindow::hard_mode_switch() {
     mode_selected = !mode_selected;
     if (mode_selected) {
         mode->setText("Switch to easy Mode");
-        QMessageBox::information(this, "Mode Switch", "Hard Mode Activated: AI will minimize inversions.");
+        QMessageBox::information(this, "Mode Switch", "Jard mood activated: AI will minimize inversions.");
     } else {
         mode->setText("Switch to hard Mode");
         QMessageBox::information(this, "Mode Switch", "Easy Mode Activated: AI will use range fitting.");
