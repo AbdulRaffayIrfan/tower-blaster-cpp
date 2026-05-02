@@ -92,6 +92,7 @@ GNU GPL v3
 ## Contact
 
 Muhammad Raffay Irfan - RaffayIrfan2008@gmail.com
+Muhammad Asad Ullah - asadbhutta539@gmail.com
 
 Project Link: [https://github.com/RaffayIrfan/tower-blaster-cpp](https://github.com/RaffayIrfan/tower-blaster-cpp)
 
