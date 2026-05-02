@@ -168,7 +168,7 @@ int score_fit(int card, int low, int high) {
 
 void ai_move(array<int,10> &tower, int &card, deck &deck) {
     cout << "AI's turn :\n";
-    cout << "Drawn card: " << card << "\n";
+    cout << "Drawn card : " << card << "\n";
 
     //hardcoded ranges better idea than sorted ranges 
     //which can be abrupt and give placement on already sorted locality
@@ -223,7 +223,7 @@ void ai_move(array<int,10> &tower, int &card, deck &deck) {
 void game(){
     
     cout << "Welcome to the Base Game!\n";
-    cout << "This is TowerBlaster Base game\n";
+    cout << "This is TowerBlaster Base game made by Asad and Raffay\n";
     cout << "Arrange the numbers in ascending order!\n";
     cout<< "With Ai or not? 1 for Ai 0 for 1v1\n";
     bool vs_ai;
