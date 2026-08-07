@@ -45,7 +45,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RaffayIrfan/tower-blaster-cpp
+   git clone https://github.com/AbdulRaffayIrfan/tower-blaster-cpp
    ```
 2. Install gcc with mingw
     https://code.visualstudio.com/docs/cpp/config-mingw
@@ -59,7 +59,7 @@ This is an example of how to list things you need to use the software and how to
 > [!NOTE]
 > You can play either with ai or 1v1 in gui or tui modes.
 
-[Release](https://github.com/RaffayIrfan/tower-blaster-cpp/releases)
+[Release](https://github.com/AbdulRaffayIrfan/tower-blaster-cpp/releases)
 
 Extract the build zip and run tuigame.exe or guigame.exe.
 
@@ -94,7 +94,7 @@ GNU GPL v3
 Muhammad Raffay Irfan - RaffayIrfan2008@gmail.com
 Muhammad Asad Ullah  - asadbhutta539@gmail.com
 
-Project Link: [https://github.com/RaffayIrfan/tower-blaster-cpp](https://github.com/RaffayIrfan/tower-blaster-cpp)
+Project Link: [https://github.com/AbdulRaffayIrfan/tower-blaster-cpp](https://github.com/AbdulRaffayIrfan/tower-blaster-cpp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
